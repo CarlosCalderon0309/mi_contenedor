@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejercicioactividades</string>
+    <string-array name="spinnerdepartamentos">
+        <item> Quetzaltenango</item>
+        <item> Guatemala</item>
+        <item> Sacatepéquez</item>
+        <item> Chimaltenango</item>
+        <item> Escuintla</item>
+        <item> Huehuetenango</item>
+        <item> Alta Verapaz</item>
+        <item> Baja Verapaz</item>
+    </string-array>
+</resources>
